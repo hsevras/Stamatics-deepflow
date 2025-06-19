@@ -30,7 +30,7 @@ One-hot encoded low-cardinality categorical features and ordinal-encoded high-ca
 Scaled numerical features using StandardScaler.
 
 
-2)MOdel traning and validation 
+2) MOdel traning and validation 
 
 Retrained the Random Forest model on all available labeled data.
 
